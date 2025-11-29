@@ -12,3 +12,6 @@
 1. Entramos a la siguiente pagina y le damos en "get Node" y se descargara el archivo solo debemos darle a instalar.
 ![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207.png?raw=true)
 2. Una vez instalada nos vamos al "CMD" de nuestro dispositivo y le ponemos "Node-Red" y se haabilitara el servidor.
+![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207%20.1.png?raw=true)
+3. Despues nos vamos al navegado y ponemos la siguiente direccion: 127.0.0.1:1880
+4. Armamos nuestros bloques de la siguiente manera.
