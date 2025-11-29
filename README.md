@@ -19,3 +19,5 @@
 5. En el bloque "mqtt in" se configura de la siguiente manera:
 ![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207.3.png?raw=true)
 6.En el bloque "Json" se modifica de la manera siguiente.
+![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207.4.png?raw=true)
+7. Se agregan tres bloques de funcion, para la temperatura, la humedad y la distancia.
