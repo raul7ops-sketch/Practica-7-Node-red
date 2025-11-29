@@ -15,3 +15,5 @@
 ![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207%20.1.png?raw=true)
 3. Despues nos vamos al navegado y ponemos la siguiente direccion: 127.0.0.1:1880
 4. Armamos nuestros bloques de la siguiente manera.
+![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207%20.2.png?raw=true)
+5. En el bloque "mqtt in" se configura de la siguiente manera:
