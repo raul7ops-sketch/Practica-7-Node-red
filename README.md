@@ -17,3 +17,5 @@
 4. Armamos nuestros bloques de la siguiente manera.
 ![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207%20.2.png?raw=true)
 5. En el bloque "mqtt in" se configura de la siguiente manera:
+![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207.3.png?raw=true)
+6.En el bloque "Json" se modifica de la manera siguiente.
