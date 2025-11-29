@@ -46,3 +46,8 @@
 ![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207%20Distancia.png?raw=true)
 
 8. Agregamos dos bloques, uno es para las graficas y el otro para poner un indicador.
+
+![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207%20.5.png?raw=true)
+
+9. En los bloques de graficas se le pondra lo siguiente con la respectiva funcion que debe llevar:
+
