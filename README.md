@@ -235,3 +235,5 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 ```
 
 ## Evidencias y resultados:
+![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207.9.png?raw=true)
+
