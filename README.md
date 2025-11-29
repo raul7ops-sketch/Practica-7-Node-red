@@ -57,3 +57,6 @@
 ![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207%20.7.png?raw=true)
 
 11. Nos vamos al Wokwi y armamos el circuito de la siguiente manera:
+![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207.8.png?raw=true)
+
+12. Copiamos el siguiente codigo y lo agregamos al wokwi.
