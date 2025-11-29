@@ -21,4 +21,5 @@
 6.En el bloque "Json" se modifica de la manera siguiente.
 ![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207.4.png?raw=true)
 7. Se agregan tres bloques de funcion, para la temperatura, la humedad y la distancia.
-https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207%20temperatura.png?raw=true
+
+https://raw.githubusercontent.com/raul7ops-sketch/Practica-7-Node-red/adc8c7137459043ba22f147e59915d943ab66a70/Reporte%207%20Humedad.png
