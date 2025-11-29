@@ -51,3 +51,6 @@
 
 9. En los bloques de graficas se le pondra lo siguiente con la respectiva funcion que debe llevar:
 
+![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207.6.png?raw=true)
+
+10. En los bloques de indicadores se pondra lo siguiente con su respectiva funcion
