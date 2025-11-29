@@ -54,3 +54,6 @@
 ![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207.6.png?raw=true)
 
 10. En los bloques de indicadores se pondra lo siguiente con su respectiva funcion
+![](https://github.com/raul7ops-sketch/Practica-7-Node-red/blob/main/Reporte%207%20.7.png?raw=true)
+
+11. Nos vamos al Wokwi y armamos el circuito de la siguiente manera:
