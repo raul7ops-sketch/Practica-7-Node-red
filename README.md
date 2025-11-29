@@ -10,4 +10,4 @@
 - Un servidor Online
 ## Pasos a realizar Para la instalacion de Node-RED
 1. Entramos a la siguiente pagina y le damos en "get Node" y se descargara el archivo solo debemos darle a instalar.
-![](<img width="650" height="309" alt="image" src="https://github.com/user-attachments/assets/23b93f77-f758-4e63-b50a-a93947d1e09d" />)
+![](
