@@ -244,4 +244,4 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 Como se puede observar, al momento de correr el codigo se visualiza en nuestra pagina remota los resultados que van arrojando los sensores que instalamos en el ESP 22 del ultrasonico y el DHT11 y podemos visualizarlo via remota con graficas e indicadores que nosotros editamos para una mejor visualizacion.
 
 ## Creditos
-Este reporte fue elaborado por Raul Aguilar Lagunas
+Este reporte fue elaborado por Raul Aguilar Lagunas https://github.com/raul7ops-sketch
